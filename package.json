@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "beta": "webpack --config ./webpack.config.js",
     "dev": "webpack serve --progress --config ./webpack.config.js"
   },
   "keywords": [],
